@@ -3,7 +3,7 @@
 ### Description 
 Trie is an efficient information retrieval data structure. Using Trie, search complexities can be brought to optimal limit (key length). 
 
-* This Repository includes the implementation of trie and some of the problems based or trie.
+* This Repository includes the implementation of trie and some of the problems based on trie.
 
 ### Resources :
 * [GFG](https://www.geeksforgeeks.org/)
